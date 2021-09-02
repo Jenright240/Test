@@ -1,12 +1,12 @@
-<h1 align="center"> ustvgo_to_m3u </h1>
+<h1 align="center"> Test </h1>
 
 Grabs m3u links from ustvgo.tv
 
 ### Usage
 
 ``` bash
-git clone https://github.com/benmoose39/ustvgo_to_m3u.git
-cd ustvgo_to_m3u
+git clone https://github.com/Jenright240/Test.git
+cd Test
 ```
 ##### To run manually:
 ```
